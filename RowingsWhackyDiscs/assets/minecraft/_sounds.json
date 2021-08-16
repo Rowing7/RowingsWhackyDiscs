@@ -1,0 +1,16 @@
+{
+    "ambient.cave": {
+        "replace": "true",
+        "category": "ambient",
+        "sounds": [
+            {
+                "name": "minecraft:ambient/cave/cave1",
+                "stream": false
+            },
+            {
+                "name": "minecraft:ambient/cave/cave2",
+                "stream": false
+            }
+        ]
+    }
+}
